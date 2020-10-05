@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+form{
+	width: 800px;
+	margin: auto;
+}
+
+input, textarea{
+	font-family: Helvetica;
+	font-weight: normal;
+	font-size: 13pt;
+}
+
+input:hover, textarea:hover{
+	background-color: #dddddd;
+}
+legend{
+	color: #888888;
+	font-weight: bold;
+	font-size: 13pt;
+	font-family: helvetica;
+}
+fieldset{
+	border-color: #cecece;
+	margin: 20px;
+}
